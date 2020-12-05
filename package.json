@@ -1,0 +1,21 @@
+{
+  "name": "Listas-Circulares-NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathanr26/Listas-Circulares-NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathanr26/Listas-Circulares-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Jonathanr26/Listas-Circulares-NodeJs#readme"
+}
